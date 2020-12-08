@@ -27,6 +27,9 @@
     font-size: 17px;
     text-align: left;
  }
+ .icons{
+     float: right;
+ }
 .sec2{
     width: 100%;
 }
